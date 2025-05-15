@@ -5,3 +5,4 @@ Program Project Based Internship Kimia Farma Big Data Analytics merupakan progra
 Tugas akhir pada program ini adalah membuat dashboard Google Looker Studio dari data penjualan salah satu produk Kimia Farma tahun 2020-2023 dari data mentah yang telah disediakan oleh Kimia Farma.
 
 Video Presentasi: ristek.link/Fattan-Raditya-Anggoro-KFxR
+Link Dashboard: https://lookerstudio.google.com/reporting/86b99192-7652-4e59-97ae-014f0432d1fc
