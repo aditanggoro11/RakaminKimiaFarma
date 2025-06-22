@@ -9,4 +9,5 @@ Tujuan Proyek:
 Relevant Skill: SQL, Python, RDBMS
 
 PROJECTS: https://docs.google.com/presentation/d/1LLByUAbF311TgjyNA72JVJMUe5Jgoh4vf2A6TOAd1qI/edit?usp=sharing
+
 GUI: https://colab.research.google.com/drive/1U0LZSunZ7CJg2XoHVWgn5ZFhMvSzChjD?usp=sharing
