@@ -1,3 +1,4 @@
+# Hotel Information System Database
 Proyek ini berfokus pada perancangan, implementasi, dan analisis basis data untuk sistem informasi hotel. Tujuannya adalah menciptakan sistem yang efisien untuk pengelolaan data hotel, kamar, dan pemesanan, serta menyediakan wawasan berharga bagi manajer dan meningkatkan pengalaman pelanggan. Data yang digunakan berasal dari Kaggle.com, mencakup informasi guestlist, bookings, hotel, dan room. Proyek ini mendemonstrasikan kemampuan dalam desain basis data (ERD, Normalisasi), implementasi SQL (DDL, DML, Query Kompleks), dan visualisasi data dasar (melalui GUI) untuk mendukung pengambilan keputusan berbasis data di industri perhotelan.
 
 Tujuan Proyek:
